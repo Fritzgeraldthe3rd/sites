@@ -7,7 +7,7 @@
    <button>Click Here to Play!</button> 
    <script> 
      var urlObj = new window.URL(window.location.href); 
-     var url = ""; 
+     var url = "https://now.gg/apps/roblox-corporation/5349/roblox.html"; 
      if (url) { 
        var win; 
  
